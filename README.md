@@ -59,6 +59,13 @@ This generates the `crc_fault_sweep_fixed.stil` pattern file for test equipment.
 
 ---
 
+
+## 📷 Waveform (GTKWAVE View)
+
+Below is the waveform showing sweeping of all fault bit positions and CRC response for each case:
+
+![CRC Fault Sweep Simulation](./crc_sweep.PNG)
+
 ## 🎯 Use Cases
 
 * Automated **fault modeling** with full sweep coverage
